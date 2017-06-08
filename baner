@@ -1,5 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://nhomkinhducphong73.blogspot.com or http://nhomkinhducphong.com
+//website http://giaiphapthuonghieu.vn or http://faceseo.vn
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://nhomkinhducphong.com/' target='_blank'><img src='http://imageshack.com/a/img924/7453/UolT66.jpg' width='500px'/><br/>THI CÔNG NHÔM KÍNH TRỌN GÓI</a>. LH 0983 06 39 79. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://nhomkinhducphong.com' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
